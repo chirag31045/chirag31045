@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Chirag Kumawat</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/chirag.kumawat.71697) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_chirag_kumawat_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/chirag-kumawat-b58401263) 
